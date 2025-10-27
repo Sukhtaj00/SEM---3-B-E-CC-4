@@ -1,6 +1,6 @@
 import { Request, Response, NextFunction } from "express";
 import { UserRecord } from "firebase-admin/auth";
-import { auth } from "../../../../config/firebaseConfig";
+import { auth } from "src/config/firebaseConfig";
 import { HTTP_STATUS } from "../../../constants/httpConstants";
 
 /**
