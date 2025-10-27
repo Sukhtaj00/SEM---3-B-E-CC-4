@@ -13,11 +13,8 @@
   },
   "dependencies": {
     "dotenv": "^17.2.3",
-<<<<<<< HEAD
     "firebase-admin": "^13.5.0",
-=======
     "express": "^5.1.0",
->>>>>>> 639ce7eb79ad192f83476d62c45be76bb5559a15
     "morgan": "^1.10.1"
   },
   "name": "coding-challenge-4",
